@@ -1,0 +1,28 @@
+name: wellsinki
+favicon: null
+layout_spectrum: 0.8369037876836956
+typography_spectrum: 0.3251085001975298
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8510330885183066
+  lightness: 0.1322606522589922
+  saturation: 0.6642189472913742
+  rhythmicContrast: 0.8344120504334569
+purpose: []
